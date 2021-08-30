@@ -1,0 +1,11 @@
+Start Game
+White
+c2c3 Black Played b4c3
+d2c3 Black Played a4a3
+b2b3 Black Played c4b3
+c1b3 Black Played c5b3
+a2b3 Black Played d5c5
+b3b4 Black Played c5c3
+d1d2 Black Played c3a1
+d2c2 Black Played b5d3
+c2c1 Black Played d3b1
